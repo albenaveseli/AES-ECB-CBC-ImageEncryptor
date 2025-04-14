@@ -8,8 +8,7 @@ This project demonstrates the encryption and decryption of images using the **AE
 - [How It Works](#how-it-works)
 - [Prerequisites](#prerequisites)
 - [How to Run](#how-to-run)
-- [File Structure](#file-structure)
-- [License](#license)
+
 
 ## Overview
 
